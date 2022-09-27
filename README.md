@@ -1,2 +1,2 @@
 # DS-A
-Basic Data Structures and ALgorithms
+Basic Data Structures and Algorithms
